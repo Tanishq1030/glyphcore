@@ -51,6 +51,14 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# =====================
+# Python cache / runtime
+# =====================
+__pycache__/
+*.py[cod]
+*$py.class
+
+
 # Translations
 *.mo
 *.pot
@@ -205,3 +213,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# =====================
+# Packaging / build artifacts
+# =====================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =====================
+# OS / editor noise
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
