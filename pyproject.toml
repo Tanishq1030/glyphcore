@@ -14,7 +14,7 @@ requires-python = ">=3.10"
 dependencies = []
 
 authors = [
-    { name = "Your Name", email = "you@example.com" }
+    { name = "Tanishq Dasari", email = "tanishqdasari2004@gmail.com" }
 ]
 
 keywords = [
