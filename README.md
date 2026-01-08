@@ -203,3 +203,5 @@ glyphcore/
 - **Optional GUI**: Requires plotly or matplotlib for GUI escalation
 - **Compliance guaranteed**: StatusBlock renderers are validated against framework invariants
 - **Compliance guaranteed**: StatusBlock renderers are validated against framework invariants
+
+  **Read the full story:** [Why I Stopped Trusting Charts](https://why-i-stopped-trusting-charts.hashnode.dev/glyphcore-why-i-stopped-trusting-charts-and-started-enforcing-meaning)
